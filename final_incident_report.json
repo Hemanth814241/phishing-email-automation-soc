@@ -1,0 +1,14 @@
+{
+    "email_file": "samples/sample-1.eml",
+    "phishing_type": "URL-based Phishing",
+    "attachments": [],
+    "phishing_url": "https://blog1seguimentmydomaine2bra.me/",
+    "virustotal": {
+        "malicious": 0,
+        "suspicious": 0,
+        "undetected": 33,
+        "harmless": 65,
+        "timeout": 0
+    },
+    "final_severity": "MEDIUM"
+}
